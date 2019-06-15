@@ -7,6 +7,6 @@ public class WebCrawlerMain {
 	    System.out.print("Enter a URL: ");
 	    String url = input.nextLine(); 
 	    System.out.print(web.crawler(url));
-	     // Traverse the Web from the a starting url
+	     
 	  }
 }
